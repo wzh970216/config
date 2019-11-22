@@ -18,3 +18,5 @@ eureka:
 
 my:
   port: 8888
+test:
+  message: hello!
